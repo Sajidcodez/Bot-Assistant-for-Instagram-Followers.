@@ -17,16 +17,18 @@ This Instagram Follower Bot automates the process of logging into an Instagram a
 - Selenium
 
 ## Installation
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 - git clone https://github.com/YOUR_USERNAME/instagram-follower-bot.git
   cd instagram-follower-bot
 
-### 2. Installation
 - pip install -r requirements.txt
-- Update the config.py file with your a choice of your instagram account, includes it's 
-  username and password and the target account to follow.
-- Run the main file and enjoy!
+
+- Update the config.py file with your a choice of your instagram account, includes it's username and password and the target account to follow.
+
 - To unfollow everyone, manager.unfollow_everyone("YOUR_USERNAME"). Enter your username
+
 - To remove all followers, manager.remove_all_followers("YOUR_USERNAME"). Enter your username.
+
+- Run the main file and enjoy!
