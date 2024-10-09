@@ -23,6 +23,7 @@ This Instagram Follower Bot automates the process of logging into an Instagram a
 - git clone https://github.com/YOUR_USERNAME/instagram-follower-bot.git
   cd instagram-follower-bot
 
+### 2. Installation
 - pip install -r requirements.txt
 - Update the config.py file with your a choice of your instagram account, includes it's 
   username and password and the target account to follow.
