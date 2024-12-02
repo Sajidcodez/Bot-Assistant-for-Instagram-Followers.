@@ -1,4 +1,4 @@
-# Bot-Assistant-for-Instagram-Followers.
+# InstaBot
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
